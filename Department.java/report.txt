@@ -1,0 +1,12 @@
+The dashboard is used to review the progress of the business. 
+Sales: Looks at sales growth, sales targets and product performance. 
+Finance: Looks at budget, expenses, revenue, profit and loss. 
+Human Resources (HR): Deals with the process of hiring, firing, positioning and overseeing employees. 
+Revenue: 500000.0 
+Expenses: 4600.0 
+Profit: 495100.0 
+Budget: 45400.0
+Product performance: 200.0% 
+Sales growth: 100.0% 
+Revenue per employee: 2500.0 
+Loss: 0.0
